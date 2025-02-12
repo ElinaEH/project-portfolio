@@ -30,7 +30,7 @@ const FeaturedProjects = () => {
 
   // Load more projects when the button is clicked
   const loadMoreProjects = () => {
-    setDisplayedProjects((prev) => prev + 2); // Load 2 more projects at a time
+    setDisplayedProjects((prev) => prev + 4); // Load 4 more projects at a time
   };
 
   if (error) {

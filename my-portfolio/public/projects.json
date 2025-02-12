@@ -1,6 +1,22 @@
 {
   "projects": [
     {
+      "name": "Soundseed App built with React and Node",
+      "description": "Soundseed is a full-stack app/site built with React and Node, created for songwriters to help trigger creativity and get inspired. The frontend features responsive design and reusable UI components built with React. The backend implements secure user authentication, RESTful API endpoints, and cloud storage integration using Multer for audio upload handling and Cloudinary for file storage. Data is also managed through MongoDB Atlas with mongoose.",
+      "image": "/assets/SoundseedImg.png",
+      "tags": [
+        "React",
+        "Node",
+        "MongoDB",
+        "Vite",
+        "HTML",
+        "CSS",
+        "API"
+      ],
+      "netlify": "https://soundseed.netlify.app/", 
+      "github": "https://github.com/ElinaEH/project-final"
+    },
+    {
       "name": "Music Releases Vite",
       "description": "This project involves building a React app to display music releases using a pre-downloaded Spotify API response. The data for 50 recent releases is mapped into reusable components like Album and ArtistName to showcase album details and artist links",
       "image": "/assets/Firstaidkit-min.webp",
